@@ -9,3 +9,6 @@ Users can choose between a FramePuzzle, ImageAdjuster, and PixelInspector tools.
 
 # Installation
 This project requires Java 1.8 or higher. It can be cloned into and ran from any IDE of your choice. The main methods for each feature are located in FramePuzzle.java, ImageAdjuster.java, and PixelInspector.java.
+
+# Notes
+While the project setup is very similar to the one located in my Pictures-and-Pixels repository, there are subtle differences in implementation that made the two projects difficult to merge. For this reason, I separated the projects into different repositories. 
